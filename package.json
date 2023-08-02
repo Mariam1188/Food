@@ -1,0 +1,23 @@
+{
+  "name": "food-project",
+  "version": "1.0.9",
+  "description": "food project which made by group 1",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch db.json --port 8888"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Mariam1188/food-store)"
+  },
+  "keywords": [
+    "food",
+    "blog",
+    "front-end"
+  ],
+  "author": "group1",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  }
+}
